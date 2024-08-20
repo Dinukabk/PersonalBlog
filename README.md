@@ -1,15 +1,9 @@
-<h>Personal Blog Website</h>
+Personal Blog Website
+
+
 Welcome to my personal blog website! This project is built using React and is designed to be a platform where I can share my thoughts, experiences, and knowledge with the world. The blog features a modern, responsive design and includes various sections such as blog posts, an about page, and a contact form.
 
-Table of Contents
-Features
-Installation
-Usage
-Folder Structure
-Customization
-Contributing
-License
-Contact
+
 Features
 Responsive Design: The website is fully responsive and works seamlessly on desktop, tablet, and mobile devices.
 Dynamic Content: Blog posts are managed dynamically, making it easy to add, edit, or remove content.
@@ -25,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/personal-blog.git
+git clone https://github.com/Dinukabk/personal-blog.git
 cd personal-blog
 Install dependencies:
 
